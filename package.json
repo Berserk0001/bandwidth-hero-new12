@@ -18,7 +18,7 @@
     "pretty-bytes": "^6.1.0",
     "react": "^16.14.0",
     "react-dom": "^16.8.4",
-    "react-router-dom": "^5.0.0",
+    "react-router-dom": "^6.11.2",
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4"
   },
