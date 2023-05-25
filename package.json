@@ -36,7 +36,7 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.2",
     "img-loader": "^4.0.0",
-    "jest": "^24.5.0",
+    "jest": "^29.5.0",
     "mini-css-extract-plugin": "^1.6.2",
     "react-test-renderer": "^16.13.0",
     "style-loader": "^0.23.1",
