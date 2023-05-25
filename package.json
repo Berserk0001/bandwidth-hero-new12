@@ -28,7 +28,7 @@
     "@babel/preset-env": "^7.21.5",
     "@babel/preset-flow": "^7.0.0",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-jest": "^23.6.0",
+    "babel-jest": "^29.5.0",
     "babel-loader": "^8.0.5",
     "babel-preset-react-app": "^10.0.1",
     "copy-webpack-plugin": "^5.0.1",
