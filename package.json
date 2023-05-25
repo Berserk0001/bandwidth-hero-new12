@@ -19,7 +19,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-router-dom": "^5.0.0",
-    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4"
   },
   "devDependencies": {
